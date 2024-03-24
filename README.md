@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @sabirerasul-ie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Sabire Rasul
 
-<!---
-sabirerasul-ie/sabirerasul-ie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full-Stack Developer with a keen interest in crafting innovative apps, software, and websites. My expertise spans a wide range of technologies, allowing me to bring ideas to life and deliver robust solutions to complex problems.
+
+## About Me
+
+- 💼 Currently working at The Indian Express.
+- 🎓 Graduated from Dr. Ram Manohar Lohia Avadh University, Ayodhya.
+
+## Skills
+
+I specialize in:
+
+- Frontend Development: HTML, CSS, Bootstrap, JavaScript, AJAX, Vue JS.
+- Backend Development: PHP, Yii2, Codeigniter.
+- Database Management: MySQL.
+- Other Technologies: Wordpress, CI, NextJS.
+
+## Current Focus
+
+I'm currently diving deeper into Wordpress, Codeigniter, and NextJS to expand my skill set and stay updated with the latest trends in Full-Stack Development.
+
+## Fun Fact
+
+I believe in the power of continuous learning and enjoy exploring new technologies and frameworks in my free time. 
